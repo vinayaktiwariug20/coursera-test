@@ -8,3 +8,5 @@ github_username: vinayaktiwariug20
 
 # Build settings
 theme: cayman
+plugins:
+  - jekyll-feed
