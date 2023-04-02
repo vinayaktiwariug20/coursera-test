@@ -7,6 +7,6 @@ url: "https://vinayaktiwariug20.github.io"
 github_username: vinayaktiwariug20
 
 # Build settings
-theme: cayman
+theme: minima
 plugins:
   - jekyll-feed
