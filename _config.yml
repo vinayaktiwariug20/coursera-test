@@ -1,12 +1,13 @@
-title: Coursera Test
+title: Coursera Test Repository
 email: vinayak.tiwari.ug20@gmail.com
 description: >-
   This is my code repository for Coursera assignments.
-baseurl: "/coursera-test/site"
+baseurl: "/coursera-test/"
 url: "https://vinayaktiwariug20.github.io"
 github_username: vinayaktiwariug20
 
 # Build settings
-theme: cayman
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
+- jekyll-feed
